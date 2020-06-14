@@ -8,7 +8,7 @@
 2. Extracting Time Stamp of the file
 3. Copy contents from one file to another or Copy the directory from one
 to another
-
+4. Rename and move files
 
 
 
