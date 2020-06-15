@@ -9,6 +9,8 @@
 3. Copy contents from one file to another or Copy the directory from one
 to another
 4. Rename and move files
+5. Implement gedit/vi commands which we have been using to make our scripts
+6. Joining and making wildcards
 
 
 
