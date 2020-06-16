@@ -1,0 +1,12 @@
+    1  cd /vagrant
+    2  ls
+    3  cd commands
+    4  vi history.sh
+    5  ./history.sh
+    6  history
+    7  ./history.sh
+    8  cmd-history.txt
+    9  ./history.sh
+   10  vi history.sh
+   11  ./history.sh
+   12  source ./history.sh

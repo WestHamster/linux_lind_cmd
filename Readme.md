@@ -2,15 +2,25 @@
 ### Baby Steps:
 1. mkdir -i  name_of_your_src
 2. cd 'path/to/destination'
+3. Basic Commands:
+a) date - display date
+b) cal - display calendar
+c) clear - clear your screen
+d) pwd - print working directory
+e) ls - list the contents of directory
+f) ln - create links
+g) exit - exit the terminal
+h) gedit - default gedit text editor
+i) nano - Nano editor
 
-## Operations:
+### Operations:
 1. File Creation
 2. Extracting Time Stamp of the file
 3. Copy contents from one file to another or Copy the directory from one
 to another
 4. Rename and move files
-5. Implement gedit/vi commands which we have been using to make our scripts
-6. Joining and making wildcards
+5. Retrieve command line history (check comments to run)
+
 
 
 
