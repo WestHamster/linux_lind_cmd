@@ -22,6 +22,7 @@ to another
 5. Retrieve command line history (check comments to run)
 6. Use of cat and tac commands
 7. Generating sequence
+8. Use of head and tail command.
 
 
 

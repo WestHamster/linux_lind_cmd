@@ -1,8 +1,2 @@
-#!/bin/sh
+for((i=1;i<=1000;i++)); do echo $i >> thousand_time.txt; done
 
-#Creating a loop of 100/n numbers
-
-for((i=1;i<=1000;i++));
-do
-echo $i >> thousand_numbers;
-done
