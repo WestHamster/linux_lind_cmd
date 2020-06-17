@@ -20,7 +20,8 @@ i) nano - Nano editor
 to another
 4. Rename and move files
 5. Retrieve command line history (check comments to run)
-
+6. Use of cat and tac commands
+7. Generating sequence
 
 
 
