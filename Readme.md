@@ -24,6 +24,8 @@ to another
 7. Generating sequence
 8. Use of head and tail command
 9. Use of wc command
+10. Types of commands : 1)Executable programs   2) Shell builtin    3) Shell
+Scripts   4) Alias
 
 
 
