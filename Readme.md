@@ -26,6 +26,9 @@ to another
 9. Use of wc command
 10. Types of commands : 1)Executable programs   2) Shell builtin    3) Shell
 Scripts   4) Alias
+11. Working on types of commands: 1) Executable programs
+2) Shell builtins
+3) Shell Scripts
 
 
 
