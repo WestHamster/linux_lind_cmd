@@ -11,3 +11,5 @@ type date;
 type head;
 
 type clear;
+
+type reboot;

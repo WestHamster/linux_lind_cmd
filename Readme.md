@@ -27,8 +27,10 @@ to another
 10. Types of commands : 1)Executable programs   2) Shell builtin    3) Shell
 Scripts   4) Alias
 11. Use of which command
-
-
+12. Use of help ( help shellbuiltin) and man ( man command name)
+13. Use of whatis command (executable and not shellbuiltin)
+14. Combining commands (adding exit will ignore rest of cmds after it,imp cmnts)
+15. Wildcards
 
 
 
