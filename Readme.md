@@ -31,8 +31,8 @@ Scripts   4) Alias
 13. Use of whatis command (executable and not shellbuiltin)
 14. Combining commands (adding exit will ignore rest of cmds after it,imp cmnts)
 15. Wildcards
-
-
+16. Making alias commands (after writing the script type the command in shell)
+/*You can delete the alias commands from root in ".bashrc"*/
 
 
 
