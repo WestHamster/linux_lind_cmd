@@ -3,15 +3,15 @@
 1. mkdir -i  name_of_your_src
 2. cd 'path/to/destination'
 3. Basic Commands:
-  3. 1. date - display date
-  3. 2. cal - display calendar
-  3. 3. clear - clear your screen
-  3. 4. pwd - print working directory
-  3. 5. ls - list the contents of directory
-  3. 6. ln - create links
-  3. 7. exit - exit the terminal
-  3. 8. gedit - default gedit text editor
-  3. 9. nano - Nano editor
+  1. date - display date
+  2. cal - display calendar
+  3. clear - clear your screen
+  4. pwd - print working directory
+  5. ls - list the contents of directory
+  6. ln - create links
+  7. exit - exit the terminal
+  8. gedit - default gedit text editor
+  9. nano - Nano editor
 
 ### Operations:
 1. File Creation
