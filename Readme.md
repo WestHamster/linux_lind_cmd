@@ -38,10 +38,7 @@ Scripts   4) Alias
 
 
 
-*(P.S.:
-  1. I hope you know the logics of cd, ls, tree, touch, cat. If not, this
+*(P.S.:1. I hope you know the logics of cd, ls, tree, touch, cat. If not, this
   may help [BASICS]https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
   2. Be sure you're in the place where you want to run the commands, if not
-  then use ```cd 'directory_name'``` in the beginning of the script
-  )
-*
+  then use ```cd 'directory_name'``` in the beginning of the script)*
