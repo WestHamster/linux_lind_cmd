@@ -1,17 +1,17 @@
 # Working on Linux Line Commands
 ### Baby Steps:
-*1. mkdir -i  name_of_your_src
-*2. cd 'path/to/destination'
-*3. Basic Commands:
-  *a) date - display date
-  *b) cal - display calendar
-  *c) clear - clear your screen
-  *d) pwd - print working directory
-  *e) ls - list the contents of directory
-  *f) ln - create links
-  *g) exit - exit the terminal
-  *h) gedit - default gedit text editor
-  *i) nano - Nano editor
+1. mkdir -i  name_of_your_src
+2. cd 'path/to/destination'
+3. Basic Commands:
+  3. 1. date - display date
+  3. 2. cal - display calendar
+  3. 3. clear - clear your screen
+  3. 4. pwd - print working directory
+  3. 5. ls - list the contents of directory
+  3. 6. ln - create links
+  3. 7. exit - exit the terminal
+  3. 8. gedit - default gedit text editor
+  3. 9. nano - Nano editor
 
 ### Operations:
 1. File Creation
@@ -39,8 +39,8 @@ Scripts   4) Alias
 
 
 *(P.S.:
-  1)I hope you know the logics of cd, ls, tree, touch, cat. If not, this
-  may help https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
-  2) Be sure you're in the place where you want to run the commands, if not
+  1. I hope you know the logics of cd, ls, tree, touch, cat. If not, this
+  may help [BASICS]https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+  2. Be sure you're in the place where you want to run the commands, if not
   then use ```cd 'directory_name'``` in the beginning of the script
   )*
