@@ -1,17 +1,17 @@
 # Working on Linux Line Commands
 ### Baby Steps:
-1. mkdir -i  name_of_your_src
-2. cd 'path/to/destination'
-3. Basic Commands:
-a) date - display date
-b) cal - display calendar
-c) clear - clear your screen
-d) pwd - print working directory
-e) ls - list the contents of directory
-f) ln - create links
-g) exit - exit the terminal
-h) gedit - default gedit text editor
-i) nano - Nano editor
+*1. mkdir -i  name_of_your_src
+*2. cd 'path/to/destination'
+*3. Basic Commands:
+  *a) date - display date
+  *b) cal - display calendar
+  *c) clear - clear your screen
+  *d) pwd - print working directory
+  *e) ls - list the contents of directory
+  *f) ln - create links
+  *g) exit - exit the terminal
+  *h) gedit - default gedit text editor
+  *i) nano - Nano editor
 
 ### Operations:
 1. File Creation
@@ -32,12 +32,15 @@ Scripts   4) Alias
 14. Combining commands (adding exit will ignore rest of cmds after it,imp cmnts)
 15. Wildcards
 16. Making alias commands (after writing the script type the command in shell)
+
 /*You can delete the alias commands from root in ".bashrc"*/
 
 
 
 
-(P.S.:
-  1)I hope you know the logics of cd, ls, tree, touch, cat. If not, this may help https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
-  2) Be sure you're in the place where you want to run the commands, if not then use ```cd 'directory_name'``` in the beginning of the script
-  )
+*(P.S.:
+  1)I hope you know the logics of cd, ls, tree, touch, cat. If not, this
+  may help https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+  2) Be sure you're in the place where you want to run the commands, if not
+  then use ```cd 'directory_name'``` in the beginning of the script
+  )*
