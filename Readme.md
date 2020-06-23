@@ -11,7 +11,7 @@
   > ln - create links;
   > exit - exit the terminal;
   > gedit - default gedit text editor;
-  > nano - Nano editor; 
+  > nano - Nano editor;
 
 ### Operations:
 1. File Creation
@@ -43,4 +43,5 @@ Scripts   4) Alias
   may help [BASICS]https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
   2. Be sure you're in the place where you want to run the commands, if not
   then use ```cd 'directory_name'``` in the beginning of the script
-  )*
+  )
+*
